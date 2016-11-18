@@ -14,4 +14,10 @@ HTML and JS, CSS Training using TODO sample.
 - $ npm install
 - $ npm start
 
-Then access localhost: 3000 with your browser.
+Then access http://localhost:3000 with your browser.
+
+# References
+- http://backbonejs.org
+- https://angularjs.org
+- http://getbootstrap.com
+- http://expressjs.com

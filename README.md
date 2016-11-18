@@ -13,4 +13,5 @@ HTML and JS, CSS Training using TODO sample.
 - $ cd todo-training
 - $ npm install
 - $ npm start
+
 Then access localhost: 3000 with your browser.

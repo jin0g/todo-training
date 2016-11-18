@@ -1,5 +1,5 @@
 # TODO-Training
-HTML and JS simple training set with TODO sample of fill-in problem.
+HTML and JS, CSS Training using TODO sample.
 
 # What you have TODO
 - Make a TODO form in index.html
